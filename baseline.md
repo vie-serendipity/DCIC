@@ -1,4 +1,7 @@
 # Baseline
+## result
+
+![res](https://github.com/vie-serendipity/DCIC/blob/main/IMG/res.png)
 ## Algorithm
 首先通过数据的读取和处理得到想要的信息
 这里学习一下padas库中的pivot_table
